@@ -1,0 +1,10 @@
+C:\Users\pokim\source\repos\Змея\Змея\bin\Debug\Змея.exe.config
+C:\Users\pokim\source\repos\Змея\Змея\bin\Debug\Змея.exe
+C:\Users\pokim\source\repos\Змея\Змея\bin\Debug\Змея.pdb
+C:\Users\pokim\source\repos\Змея\Змея\obj\Debug\Змея.csprojAssemblyReference.cache
+C:\Users\pokim\source\repos\Змея\Змея\obj\Debug\Змея.Form1.resources
+C:\Users\pokim\source\repos\Змея\Змея\obj\Debug\Змея.Properties.Resources.resources
+C:\Users\pokim\source\repos\Змея\Змея\obj\Debug\Змея.csproj.GenerateResource.cache
+C:\Users\pokim\source\repos\Змея\Змея\obj\Debug\Змея.csproj.CoreCompileInputs.cache
+C:\Users\pokim\source\repos\Змея\Змея\obj\Debug\Змея.exe
+C:\Users\pokim\source\repos\Змея\Змея\obj\Debug\Змея.pdb
